@@ -1,4 +1,4 @@
-# ⟡ HELIX TERM
+# ⟡ Vitrine Terminal
 
 **A free, open-source charting terminal / dashboard for futures traders.**
 
@@ -8,7 +8,7 @@ Built by [Mal / Algo8 Trading](https://github.com/algo8-byte). Download it, run 
 
 ## What it is
 
-HELIX TERM is a calm, dark, instrument-grade cockpit for watching futures markets — designed for NQ / ES traders, in the HELIX "Deep Field" visual system:
+Vitrine Terminal is a calm, dark, instrument-grade cockpit for watching futures markets — designed for NQ / ES traders, in the HELIX "Deep Field" visual system:
 
 - **Deep Field palette** — deep navy-black surfaces (`#0C1119`), teal (`#2DD4BF`) = up / positive *only*, coral (`#FB7185`) = down / live, amber (`#F5A524`) = attention
 - **JetBrains Mono everywhere it counts** — prices, labels, and numbers in tabular mono so columns never jitter
