@@ -1,4 +1,4 @@
-# Contributing to HELIX TERM
+# Contributing to Vitrine Terminal
 
 Thanks for building on this — that's the whole point of open-sourcing it.
 
