@@ -19,3 +19,16 @@ Thanks for building on this — that's the whole point of open-sourcing it.
 ## Bugs & ideas
 
 Open an issue. Screenshots help a lot for UI bugs.
+
+## Contributor Terms (read before opening a PR)
+
+Vitrine Terminal is **solo-owned**. No one is granted write or admin access — all changes arrive by pull request and are reviewed before anything merges. `main` is a protected branch.
+
+By submitting a pull request you agree that:
+
+1. You wrote the contribution, or you have the legal right to submit it.
+2. You grant Mal / Milly Capital a perpetual, worldwide, royalty-free right to use, modify, and relicense your contribution as part of Vitrine Terminal, while the project release remains under AGPLv3.
+3. You keep credit where the project keeps it: the original author attribution in NOTICE and LICENSE stays intact in your work.
+4. Names and logos are not part of any grant — see the Trademark section of NOTICE.
+
+PRs that add secrets/keys, remove attribution, or rebrand the project will be closed without merge.
