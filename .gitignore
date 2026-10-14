@@ -1,0 +1,22 @@
+# Local config & secrets — never commit these
+.env
+.env.*
+*.key
+*.pem
+config.local.*
+secrets.*
+
+# Data / cache
+data/
+cache/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (if you add tooling)
+node_modules/
+dist/
