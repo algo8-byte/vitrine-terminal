@@ -50,6 +50,6 @@ Daily NQ/ES lessons, levels, and recaps:
 
 ## License
 
-[MIT](LICENSE) — free to use, copy, modify, and build on. See the license file.
+[GNU AGPLv3](LICENSE) — free to use, copy, modify, and build on, **as long as you credit the original author and keep your version open source under AGPLv3 too** (including hosted copies). See LICENSE and NOTICE.
 
 *Educational tooling only — not financial advice. Trading futures carries risk.*
